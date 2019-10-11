@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798770102710",
+    "firebase_url": "https://emoticon-79d07.firebaseio.com",
+    "project_id": "emoticon-79d07",
+    "storage_bucket": "emoticon-79d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798770102710:android:22bead1eafb0f510aec117",
+        "android_client_info": {
+          "package_name": "wanclick.services.com.emoticons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798770102710-75eof2i7pbo902paqa3m1n5mnomb2n8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wanclick.services.com.emoticons",
+            "certificate_hash": "4608491843ff0df71c6b7147c828308bb799dee6"
+          }
+        },
+        {
+          "client_id": "798770102710-nubo6kd0f69fr6h8kkkqkshnddtttu51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgJv7a9Fpjwj_1GiqQHJvYlPVn2VFkvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798770102710-nubo6kd0f69fr6h8kkkqkshnddtttu51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
